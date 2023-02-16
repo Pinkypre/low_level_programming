@@ -1,2 +1,1 @@
-#!/bin/bash
-c level coding
+This is the first c  programming
